@@ -1,0 +1,46 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+	font-size: 16px;
+	background-color: #f0f0f0;
+}
+
+.navbar{
+	background-color: #1282C2;
+	background-attachment: scroll;
+	background-position: 0% 0%;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+	background-image: linear-gradient(to bottom, #1282C2, #165AA0) !important;
+	background-repeat: repeat-x !important;
+	padding-top: 5px;
+}
+
+.colorfondogris{
+	background-color: #f0f0f0;
+}
+.color2{
+	background-color: #33b5e5;
+}
+.color3{
+	background-color: #ff4444;
+}
+
+.app{
+	font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
